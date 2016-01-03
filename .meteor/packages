@@ -11,3 +11,12 @@ standard-minifiers      # JS/CSS minifiers run for production mode
 
 
 
+kadira:flow-router
+kadira:blaze-layout
+random
+accounts-password
+cfs:standard-packages
+cfs:gridfs
+mongo
+chrismbeckett:toastr
+underscore
